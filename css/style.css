@@ -232,6 +232,13 @@ footer a:hover {
     header h1 {
         font-size: 24px;
     }
+    
+    .site-tagline {
+        font-size: 1rem;
+        margin-top: -5px;
+        margin-bottom: 15px;
+        padding: 0 10px;
+    }
 }
 
 /* 收藏按钮样式 */
@@ -318,4 +325,17 @@ footer a:hover {
 
 .dark-theme .visit-stats {
     background-color: rgba(30, 30, 30, 0.8);
+}
+
+/* 标语样式 */
+.site-tagline {
+    color: #ffffff;
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: -10px;
+    margin-bottom: 20px;
+    font-weight: 300;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 } 
